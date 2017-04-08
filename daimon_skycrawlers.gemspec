@@ -25,7 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "nokogiri"
   spec.add_dependency "activerecord"
   spec.add_dependency "railties"
-  spec.add_dependency "pg"
+  spec.add_dependency "mysql2"
   spec.add_dependency "timers"
   spec.add_dependency "typhoeus"
   spec.add_dependency "webrobots"
